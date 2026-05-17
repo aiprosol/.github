@@ -1,0 +1,5 @@
+# GitHub Sponsors / community funding configuration for github.com/aiprosol
+# Showing the website link encourages visitors who land on aiprosol/* repos to
+# come back to the main site, where conversion happens.
+
+custom: ["https://aiprosol.com"]
