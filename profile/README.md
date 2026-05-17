@@ -42,6 +42,7 @@ Founded April 2026. UK legal entity: **Aiprosol Ltd**, headquartered in Edinburg
 - **Live AI C-Suite (auto-refreshed):** [aiprosol.com/agents](https://aiprosol.com/agents)
 - **LLM-friendly site index:** [aiprosol.com/llms.txt](https://aiprosol.com/llms.txt)
 - **Long-form context for AI assistants:** [aiprosol.com/llms-full.txt](https://aiprosol.com/llms-full.txt)
+- **The Aiprosol manifesto (founder essay):** [/blog/we-built-a-consultancy-run-by-ai-agents](https://aiprosol.com/blog/we-built-a-consultancy-run-by-ai-agents) — 30-day field report on running a consultancy with an AI C-suite
 - **Press kit:** [aiprosol.com/press](https://aiprosol.com/press)
 - **Founder:** Srijan Paudel — `srijanpaudelofficial@gmail.com`
 - **Calendly (Enterprise discovery):** [calendly.com/srijanpaudel219/30min](https://calendly.com/srijanpaudel219/30min)
