@@ -21,14 +21,14 @@ Founded April 2026. UK legal entity: **Aiprosol Ltd**, headquartered in Edinburg
 | Role | Type | Coverage |
 |---|---|---|
 | Arora | AI CEO | Strategy, customer-facing chat, hourly summaries |
-| Uncle COO | AI | Workflow health, anomaly detection |
-| Aunt CMO | AI | Content drafts, campaign briefs, brand voice |
-| Cousin Claude (CCO) | AI | Onboarding, support triage, retention |
-| Claude CTO | AI | Code health, integration design, tech debt |
-| Claude CRO | AI | Cold outreach drafts, pipeline hygiene |
-| Claude CLO | AI | Legal review, doc drafts, compliance |
-| Claude CPO | AI | Partnerships, affiliate pipeline |
-| Claude CPM | AI | Product catalogue + pricing |
+| COO | AI | Workflow health, anomaly detection |
+| CMO | AI | Content drafts, campaign briefs, brand voice |
+| CCO | AI | Onboarding, support triage, retention |
+| CTO | AI | Code health, integration design, tech debt |
+| CRO | AI | Cold outreach drafts, pipeline hygiene |
+| CLO | AI | Legal review, doc drafts, compliance |
+| CPO | AI | Partnerships, affiliate pipeline |
+| CPM | AI | Product catalogue + pricing |
 | DA | AI | KPIs, lead scoring, weekly dashboard |
 | Srijan Paudel | Human Chairman | Direction, signature actions, anything the agents shouldn't decide alone |
 
