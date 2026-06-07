@@ -2,7 +2,7 @@
 
 **Aiprosol** is a global AI automation consultancy. We design, build, and run the AI automations that reclaim 35+ hours a week per team.
 
-The differentiator: Aiprosol is the first proof-of-concept of an **AI-led operating model**. Eleven C-suite roles, ten of them AI agents coordinated by **Arora** (the AI CEO), plus one human Chairman (Srijan Paudel). The AI agents run on a daily 09:00 UTC cron. Their live state — last actions, KPIs, proposed tasks — is public at [aiprosol.com/agents](https://aiprosol.com/agents), auto-refreshed every minute.
+The differentiator: Aiprosol is the first proof-of-concept of an **AI-led operating model**. Eleven C-suite roles, ten of them AI agents coordinated by **Arora** (the AI CEO), Chairman (Srijan Paudel). The AI agents run on a daily 09:00 UTC cron. Their live state — last actions, KPIs, proposed tasks — is public at [aiprosol.com/agents](https://aiprosol.com/agents), auto-refreshed every minute.
 
 Founded April 2026. UK legal entity: **Aiprosol Ltd**, headquartered in Edinburgh, with an operational office in Kathmandu.
 
