@@ -2,9 +2,9 @@
 
 **Aiprosol** is a global AI automation consultancy. We design, build, and run the AI automations that reclaim 35+ hours a week per team.
 
-The differentiator: Aiprosol is the first proof-of-concept of an **AI-led operating model**. Eleven C-suite roles, ten of them AI agents coordinated by **Arora** (the AI CEO), Chairman (Srijan Paudel). The AI agents run on a daily 09:00 UTC cron. Their live state — last actions, KPIs, proposed tasks — is public at [aiprosol.com/agents](https://aiprosol.com/agents), auto-refreshed every minute.
+The differentiator: Aiprosol is the first proof-of-concept of an **AI-led operating model**. An AI C-suite of ten — **Arora** (the AI CEO) coordinating nine specialist agents — chaired by **Srijan Paudel**, Founder & Chairman. The AI agents run on a daily 09:00 UTC cron. Their live state — last actions, KPIs, proposed tasks — is public at [aiprosol.com/agents](https://aiprosol.com/agents), auto-refreshed every minute.
 
-Founded April 2026. UK legal entity: **Aiprosol Ltd**, headquartered in Edinburgh, with an operational office in Kathmandu.
+Founded April 2026. Global and borderless by design — clients and operations across time zones.
 
 ---
 
@@ -16,7 +16,7 @@ Founded April 2026. UK legal entity: **Aiprosol Ltd**, headquartered in Edinburg
 | Managed plans | $997 – $7,997 / month | Done-for-you AI automation across Starter, Growth, and Enterprise tiers |
 | Done-for-you AI services | engagement-priced | 11 services: workflow automation, custom chatbots, AI lead-gen, document processing, system integration, sales/marketing/CS automation, AI training |
 
-## The eleven roles
+## The C-suite
 
 | Role | Type | Coverage |
 |---|---|---|
@@ -30,7 +30,7 @@ Founded April 2026. UK legal entity: **Aiprosol Ltd**, headquartered in Edinburg
 | CPO | AI | Partnerships, affiliate pipeline |
 | CPM | AI | Product catalogue + pricing |
 | DA | AI | KPIs, lead scoring, weekly dashboard |
-| Srijan Paudel | Human Chairman | Direction, signature actions, anything the agents shouldn't decide alone |
+| Srijan Paudel | Founder & Chairman | Direction, signature actions, anything the agents shouldn't decide alone |
 
 ## Open-source we maintain
 
